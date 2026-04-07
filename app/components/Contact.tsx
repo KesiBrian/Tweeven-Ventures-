@@ -64,6 +64,8 @@ export default function Contact() {
           <div className="flex flex-col items-center space-y-4">
             <div className="flex flex-col space-y-2 font-bold text-white tracking-tight text-base md:text-lg">
               <p>PHONE: +254 737 928 188</p>
+              {/* NEW CONTACT ADDED BELOW */}
+              <p>PHONE: +254 769 400 090</p>
 
               <div className="flex items-center justify-center gap-2">
                 <div className="w-4 h-4 bg-white rounded-full flex items-center justify-center">
