@@ -9,11 +9,7 @@ export default function Leadership() {
       title: "Executive Director",
       bio: "Lewis provides strategic leadership across all construction projects. With a solid foundation in civil engineering, he ensures quality, safety, and efficiency on every site. His focus on results and client satisfaction continues to shape the company's operational excellence.",
     },
-    {
-      name: "Teddy Mkala Kilambo",
-      title: "Executive Director",
-      bio: "Teddy oversees infrastructure development and operational performance. His practical experience and strong leadership guarantee timely project delivery and adherence to standards. He plays a key role in maintaining teamwork and client trust.",
-    },
+    
     {
       name: "Benard Kireti Thiongo",
       title: "Executive Director",
