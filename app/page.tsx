@@ -13,6 +13,7 @@ import Experience from "./components/Experience";
 import Compliance from "./components/Compliance";
 import Partners from "./components/Partners";
 import Conclusion from "./components/Conclusion";
+import Certifications from "./components/Certifications"; // Core compliance & certifications
 import Contact from "./components/Contact";
 
 export default function Home() {
@@ -33,6 +34,7 @@ export default function Home() {
       <Compliance />
       <Partners />
       <Conclusion />
+      <Certifications /> {/* Rendered beautifully before Contact */}
       <Contact />
     </main>
   );
